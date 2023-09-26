@@ -19,7 +19,6 @@ that the text and the timestamp of a tweet’s publication provide the most info
 the deletion status of a tweet. Four Classifier Models were evaluated using three different
 metrics. The results, are not fully conclusive and could potentially be re-examined using
 different Feature Extraction Methods, Pretrained Deep Learning Models, or more data.
-2
 
 
 # Code Structure
