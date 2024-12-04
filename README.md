@@ -5,7 +5,7 @@ Characteristics of deleted vs. non-deleted Propaganda on Social Media
 
 Disclaimer: Some of the data is not available due to data privacy
 
-# Abstarct
+# Abstract
 
 Social Media is used by billions of people every day. Twitter is one of the most well-
 known and widely used Social Media Networks. On Twitter, messages can be shared,
